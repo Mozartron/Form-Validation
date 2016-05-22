@@ -1,0 +1,4 @@
+1.There should be something like main() in your code to call the othr functions.
+2.use "document.getElementById("your req. id name")" to access the tag with that id name.
+  By using jquery that becomes $("#your req. id name") . (jquery is a js framework which makes scripting more simpler)
+  
